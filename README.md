@@ -1,3 +1,3 @@
 # D
-hello there 
+hello
 I'm devanshu
